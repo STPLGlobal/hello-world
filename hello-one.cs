@@ -2,3 +2,4 @@
 /**
 wanted to see what will happen if we create the same file name in two different branches
 */
+//edited this file after merge
